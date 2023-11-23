@@ -1,3 +1,10 @@
+// Author : Pooja Vishwakarma
+// Date : 23/11/2023
+// Problem : Arithmetic Subarrays
+// Difficulty : Medium
+// Problem Link : https://leetcode.com/problems/arithmetic-subarrays/
+
+
 
 class Solution {
 public:
